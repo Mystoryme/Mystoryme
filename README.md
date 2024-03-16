@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanyapat Lohasummakul</h1>
-<h3 align="center">’m currently studying for a bachelor's degree in Computer Science at the KMUTT University</h3>
+<h3 align="center">I’m currently studying for a bachelor's degree in Computer Science at the KMUTT University</h3>
 
 - 📫 How to reach me **thanyapat1015@gmail.com**
 
